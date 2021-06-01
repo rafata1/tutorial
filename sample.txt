@@ -1,1 +1,2 @@
 con khi cung biet dung git
+lan sua so 001
